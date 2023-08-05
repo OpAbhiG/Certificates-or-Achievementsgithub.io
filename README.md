@@ -11,6 +11,7 @@ conducted from November 2022 to December 2022
 
 ![Screenshot 2023-08-04 183952](https://github.com/OpAbhiG/Certificates-or-Achievements/assets/110295591/3c5cbddc-cd13-428b-84af-49b8c5ee2acf)
 
+# FUEL
 -Brief description or key details:
 -Friends Union for Energising Lives
 Has successfully completed Future Skills Training core Java and aptitude.
@@ -20,8 +21,7 @@ Has successfully completed Future Skills Training core Java and aptitude.
 
   # YBI Foundation
 -Brief description or key details:
-CERTIFICATE OF COMPLETION This is to certify that one has successfully completed a Fundamental course in Data Analytics
-with Python at YBI Foundation from 10th October to 25th October 2022
+CERTIFICATE OF COMPLETION This is to certify that one has successfully completed a Fundamental course in Data Analytics with Python at YBI Foundation from 10th October to 25th October 2022
 
 ![Screenshot 2023-08-04 184417](https://github.com/OpAbhiG/Certificates-or-Achievements/assets/110295591/91997794-41fb-4d1c-be98-8e77a2732874)
 

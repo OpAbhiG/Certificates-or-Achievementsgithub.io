@@ -11,8 +11,8 @@ conducted from November 2022 to December 2022
 
 ![Screenshot 2023-08-04 183952](https://github.com/OpAbhiG/Certificates-or-Achievements/assets/110295591/3c5cbddc-cd13-428b-84af-49b8c5ee2acf)
 
--Friends Union for Energising Lives
 -Brief description or key details:
+-Friends Union for Energising Lives
 Has successfully completed Future Skills Training core Java and aptitude.
 
 ![image](https://github.com/OpAbhiG/Certificates-or-Achievements/assets/110295591/32699a0c-9c58-4827-8a85-de44d349fb13)

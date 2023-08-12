@@ -1,8 +1,5 @@
 # Certificates or Achievements
 
-### Certificates
-
-
 # Coding Ninja
 -Brief description or key details:
 To successfully complete the training on
